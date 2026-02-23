@@ -84,6 +84,9 @@ http://localhost:3000
 
 👉 (https://node-assignment-i5dm.onrender.com)
 
+## Postman Documentation Link
+👉 (https://documenter.getpostman.com/view/50841011/2sBXcEmgRx)
+
 ---
 
 
