@@ -1,8 +1,4 @@
-# 📚 Node.js Assignments Repository
 
-This repository contains multiple Node.js assignments demonstrating REST API development using **Node.js** and **Express.js**.
-
----
 
 # 📝 Assignment 2 — E-Commerce Product API
 
@@ -84,10 +80,10 @@ http://localhost:3001
 
 ## 🌐 Deployed Link
 
-👉 (https://node-assignment-i5dm.onrender.com)
+👉 (https://node-assignment-1-2ff3.onrender.com/)
 
 ## Postman Documentation Link
-👉 (https://documenter.getpostman.com/view/50841011/2sBXcEmgRx)
+👉 (https://documenter.getpostman.com/view/50841011/2sBXcGFLPF)
 
 ---
 

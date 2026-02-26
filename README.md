@@ -23,69 +23,23 @@ Build a REST API to manage student data, calculate statistics, and filter record
 
 ---
 
-## 🔗 Implemented Routes
+# 📝 Assignment 2 — E-Commerce Product API
 
-### 1️⃣ Get all students
+## 🎯 Objective
 
-**GET** `/students`
-
-### 2️⃣ Get topper
-
-**GET** `/students/topper`
-
-### 3️⃣ Get average CGPA
-
-**GET** `/students/average`
-
-### 4️⃣ Get total student count
-
-**GET** `/students/count`
-
-### 5️⃣ Get student by ID
-
-**GET** `/students/:id`
-
-### 6️⃣ Get student by branch
-
-**GET** `/students/branch/:branchName`
+Build a REST API to manage products data, calculate statistics, and filter records.
 
 ---
 
-## 🧪 Sample API URLs
+## 🚀 Features
 
-```id="c1vqah"
-http://localhost:3000/students
-http://localhost:3000/students/topper
-http://localhost:3000/students/average
-http://localhost:3000/students/count
-http://localhost:3000/students/1
-http://localhost:3000/students/branch/cse
-```
-
----
-
-## ⚙️ Steps to Run Assignment 1 Locally
-
-```bash id="6e5bn0"
-cd assignment-1
-npm install
-node index.js
-```
-
-Server runs at:
-
-```id="0aaxsa"
-http://localhost:3000
-```
-
----
-
-## 🌐 Deployed Link
-
-👉 (https://node-assignment-i5dm.onrender.com)
-
-## Postman Documentation Link
-👉 (https://documenter.getpostman.com/view/50841011/2sBXcEmgRx)
+* Get all Products
+* Find products by id
+* Find products by categoryName
+* Post new products data
+* Change products by id
+* Change stock of products by id
+* Change price of products by id
 
 ---
 
