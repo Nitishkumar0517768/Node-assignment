@@ -86,13 +86,17 @@ app.get("/products/category/:ctgName", (req, res) => {
 
 // 4. post / products
 app.post("/products", (req, res) => {
+
+  const {name,category,price,stock,rating} = req.body;   /// Desturs 
+
+
   const newPro = {
     id: products.length + 1,
-    name: req.body.name,
-    category: req.body.category,
-    price: req.body.price,
-    stock: req.body.stock,
-    rating: req.body.rating
+   name,
+   category,
+   price,
+   stock,
+   rating
   };
 
   products.push(newPro);
