@@ -44,6 +44,28 @@ Build a REST API to manage products data, calculate statistics, and filter recor
 ---
 
 
+# 📝 Assignment 3 — State Statistics Management API
+
+## 🎯 Objective
+
+Build a REST API to manage Indian states data, update statistics, and perform filtering and deletion operations
+
+---
+
+## 🚀 Features
+
+* Get all states
+* Get state by ID
+* Get state with highest GDP
+* Add a new state
+* Replace entire state data
+* Update specific fields (budget, population, literacy, GDP)
+* Partial update of state data
+* Delete state by ID or name
+* Delete states with low literacy rate
+
+---
+
 
 
 
